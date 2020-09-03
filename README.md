@@ -1,7 +1,7 @@
 # Linux-study
 Shortcut
 
-ls  : 폴더안의 내용보기
+ls  : 폴더안의 내용보기<br>
 cd : 폴더진입
 mkdir : 폴더 만들기
 rmdir : 파일이 없는 폴더 삭제하기
